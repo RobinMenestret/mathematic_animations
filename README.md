@@ -1,4 +1,4 @@
-# mathematic_animations
+# Mathematic Animations
 
 This repository aims to freely share the different mathematics animations of potential future videos. 
 
