@@ -14,4 +14,5 @@ The objectve is to add there, the future requirements of future projects.
 `pip install manim`
 
 3. To launch your first animation, open a terminal in the repository and run :
+
    `manim -pqp gcd_visualization.py GCDScene`
